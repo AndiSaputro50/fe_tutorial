@@ -72,9 +72,9 @@ body {
     0deg,
     transparent,
     transparent,
-    #ff2770,
-    #ff2770,
-    #ff2770
+    #ff0000,
+    #ff0000,
+    #ff0000
   );
   z-index: 1;
   transform-origin: bottom right;
@@ -91,9 +91,9 @@ body {
     0deg,
     transparent,
     transparent,
-    #0028aa,
-    #0028aa,
-    #0028aa
+    #001eff,
+    #001eff,
+    #001eff
   );
   z-index: 1;
   transform-origin: bottom right;
